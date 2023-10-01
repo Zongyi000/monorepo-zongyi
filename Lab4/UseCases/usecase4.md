@@ -6,31 +6,31 @@
 
 <hr>
 
-**Use Case**: *use-case-title*
+**Use Case**: Pixel Color Change on Mouse Press
 
-**Primary Actor**: *primary-actor*
+**Primary Actor**: User
 
-**Goal in Context**: *the aim of the primary-actor in a particular circumstance*
+**Goal in Context**: To change the color of pixels on the canvas by pressing and dragging the mouse, simulating the drawing action of a pencil on paper.
 
-**Preconditions**: *conditions that must be true before the scenario may play out*
+**Preconditions**: The canvas is active and responsive, and a color is selected.
 
-**Trigger**: *an action or actions that initiate the scenario*
+**Trigger**: The user presses and holds the left mouse button while moving the mouse over the canvas area.
   
-**Scenario**: *an enumerated list of steps describing the actions and interactions of the primary actor with the system*
+**Scenario**: A user selects a color from the color palette, presses the left mouse button on the canvas, and drags the mouse to draw on the canvas. The pixels under the path of the mouse pointer change to the selected color.
  
-**Exceptions**: *errors or faults that may occur during the scenario. Should include remedy/corrective action taken by the primary actor*
+**Exceptions**: The canvas may not register color changes if it becomes unresponsive, or if there is an issue with the selected color or mouse input. The user may need to reselect the color or restart the application if necessary.
 
-**Priority**: *relative importance of this use case compared to other use cases*
+**Priority**: High-priority.
 
-**When available**: *the targeted release that covers this use case*
+**When available**: First release
 
-**Channel to actor**: *the means through which the primary actor and the system communicate*
+**Channel to actor**: The primary actor interacts through I/O devices: a computer mouse and a display screen showing the canvas. The system should register and reflect the color change on the canvas instantly as the user moves the mouse while holding the left button.
 
-**Secondary Actor**: *any other actors – people or systems – that may be involved in the scenario*
+**Secondary Actor**: N/A
 
-**Channels to Secondary Actors**: *the means through which any secondary actors may interact with the system or other actors*
+**Channels to Secondary Actors**: N/A
 
-**Open Issues**: *notes, concerns, or other materials*
+**Open Issues**: Future updates may incorporate various drawing tools and brush effects, necessitating modifications to this use case to accommodate those additional features.
 
 <hr>
 
