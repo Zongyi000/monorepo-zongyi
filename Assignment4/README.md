@@ -1,9 +1,9 @@
 # TODO Please edit the following information in your assignment
 
 - Name:
-- How many hours did it take you to complete this assignment?
-- Did you collaborate with any other students/TAs/Professors?
-- Did you use any external resources? (Cite them below)
+- How many hours did it take you to complete this assignment? 10h
+- Did you collaborate with any other students/TAs/Professors? No
+- Did you use any external resources? (Cite them below) No
   - tbd
   - tbd
 - (Optional) What was your favorite part of the assignment?
