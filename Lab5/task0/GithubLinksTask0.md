@@ -1,4 +1,4 @@
 # Github Links
 
-* Organization:
-* Project Board:
+* Organization: TeamOffer
+* Project Board: https://github.com/TeamOffer 
